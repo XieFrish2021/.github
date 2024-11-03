@@ -45,3 +45,6 @@ But I mostly use these programming languages: \
 ![gitee](https://img.shields.io/badge/-Gitee-black?style=for-the-badge&logo=gitee&logoColor=white)
 ![windowsterminal](https://img.shields.io/badge/-Windows_Terminal-black?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![obs](https://img.shields.io/badge/-OBS-black?style=for-the-badge&logo=obsstudio&logoColor=white)
+
+### Wakatime Stats
+![Wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=XieFrish2021&layout=compact)
