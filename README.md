@@ -47,4 +47,5 @@ But I mostly use these programming languages: \
 ![obs](https://img.shields.io/badge/-OBS-black?style=for-the-badge&logo=obsstudio&logoColor=white)
 
 ### Wakatime Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=XieFrish2021&show_icons=true) \
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=XieFrish2021&layout=compact)
