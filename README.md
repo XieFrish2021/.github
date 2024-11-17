@@ -51,10 +51,10 @@ But I mostly use these programming languages: \
 [![Ankair](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=Ankair&cache_seconds=86400)](https://github.com/XieFrish2021/Ankair)
 
 #### Other
-![NBT](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=NBT&cache_seconds=86400)
-![Atty](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=Atty&cache_seconds=86400)
-![NcehIO](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=NcehIO&cache_seconds=86400)
+[![NBT](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=NBT&cache_seconds=86400)](https://github.com/XieFrish2021/NBT)
+[![Atty](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=Atty&cache_seconds=86400)](https://github.com/XieFrish2021/Atty)
+[![NcehIO](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=NcehIO&cache_seconds=86400)](https://github.com/XieFrish2021/NcehIO)
 
 ### Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=XieFrish2021&show_icons=true) \
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=XieFrish2021&show_icons=true)](https://github.com/XieFrish2021) \
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XieFrish2021&layout=compact)
