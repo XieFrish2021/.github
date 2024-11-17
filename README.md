@@ -46,6 +46,15 @@ But I mostly use these programming languages: \
 ![windowsterminal](https://img.shields.io/badge/-Windows_Terminal-black?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![obs](https://img.shields.io/badge/-OBS-black?style=for-the-badge&logo=obsstudio&logoColor=white)
 
+### Main Repositories
+#### Mainest
+![Ankair](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=Ankair&cache_seconds=86400)
+
+#### Other
+![NBT](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=NBT&cache_seconds=86400)
+![Atty](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=Atty&cache_seconds=86400)
+![NcehIO](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=NcehIO&cache_seconds=86400)
+
 ### Wakatime Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=XieFrish2021&show_icons=true) \
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=XieFrish2021&layout=compact)
