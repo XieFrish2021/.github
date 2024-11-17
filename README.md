@@ -46,6 +46,10 @@ But I mostly use these programming languages: \
 ![windowsterminal](https://img.shields.io/badge/-Windows_Terminal-black?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![obs](https://img.shields.io/badge/-OBS-black?style=for-the-badge&logo=obsstudio&logoColor=white)
 
+### Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=XieFrish2021&show_icons=true)](https://github.com/XieFrish2021) \
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XieFrish2021&layout=compact)
+
 ### Main Repositories
 #### Mainest
 [![Ankair](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=Ankair&cache_seconds=86400)](https://github.com/XieFrish2021/Ankair)
@@ -54,7 +58,3 @@ But I mostly use these programming languages: \
 [![NBT](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=NBT&cache_seconds=86400)](https://github.com/XieFrish2021/NBT)
 [![Atty](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=Atty&cache_seconds=86400)](https://github.com/XieFrish2021/Atty)
 [![NcehIO](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=NcehIO&cache_seconds=86400)](https://github.com/XieFrish2021/NcehIO)
-
-### Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=XieFrish2021&show_icons=true)](https://github.com/XieFrish2021) \
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XieFrish2021&layout=compact)
