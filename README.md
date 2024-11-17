@@ -48,13 +48,13 @@ But I mostly use these programming languages: \
 
 ### Main Repositories
 #### Mainest
-![Ankair](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=Ankair&cache_seconds=86400)
+[![Ankair](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=Ankair&cache_seconds=86400)](https://github.com/XieFrish2021/Ankair)
 
 #### Other
 ![NBT](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=NBT&cache_seconds=86400)
 ![Atty](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=Atty&cache_seconds=86400)
 ![NcehIO](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=NcehIO&cache_seconds=86400)
 
-### Wakatime Stats
+### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=XieFrish2021&show_icons=true) \
-![Wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=XieFrish2021&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XieFrish2021&layout=compact)
