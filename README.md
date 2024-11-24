@@ -53,8 +53,8 @@ But I mostly use these programming languages: \
 ### Main Repositories
 #### Mainest
 [![Ankair](https://github-readme-stats.vercel.app/api/pin/?username=AnkairMC&repo=Ankair&cache_seconds=86400)](https://github.com/XieFrish2021/Ankair)
+[![NBT](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=NBT&cache_seconds=86400)](https://github.com/XieFrish2021/NBT)
 
 #### Other
-[![NBT](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=NBT&cache_seconds=86400)](https://github.com/XieFrish2021/NBT)
 [![Atty](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=Atty&cache_seconds=86400)](https://github.com/XieFrish2021/Atty)
 [![NcehIO](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=NcehIO&cache_seconds=86400)](https://github.com/XieFrish2021/NcehIO)
