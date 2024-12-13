@@ -52,7 +52,6 @@ But I mostly use these programming languages: \
 
 ### Main Repositories
 #### Mainest
-[![Ankair](https://github-readme-stats.vercel.app/api/pin/?username=smbServer&repo=Ankair&cache_seconds=86400)](https://github.com/smbServer/Ankair)
 [![NBT](https://github-readme-stats.vercel.app/api/pin/?username=XieFrish2021&repo=NBT&cache_seconds=86400)](https://github.com/XieFrish2021/NBT)
 
 #### Other
