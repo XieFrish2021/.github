@@ -1,4 +1,4 @@
-## Hello, I'm [Frish2021!](https://github.com/XieFrish2021) 👋
+## Hello, I'm [Frish2021!](https://github.com/CoderFrish) 👋
 
 I'm student from Guangdong China.
 I love to play games is
@@ -47,5 +47,5 @@ But I mostly use these programming languages: \
 ![obs](https://img.shields.io/badge/-OBS-black?style=for-the-badge&logo=obsstudio&logoColor=white)
 
 ### Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=XieFrish2021&show_icons=true)](https://github.com/XieFrish2021) \
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XieFrish2021&layout=compact)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderFrish&show_icons=true)](https://github.com/CoderFrish) \
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderFrish&layout=compact)
