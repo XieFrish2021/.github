@@ -23,6 +23,7 @@ I'm student from Guangdong China.
 ![vite](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vite&logoColor=white)
 ![git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)
+![Paint.NET](https://img.shields.io/badge/Paint.NET-black?style=for-the-badge&logo=materialdesignicons&logoColor=white)
 
 ### Often used frameworks
 ![springboot](https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=springboot&logoColor=white)
