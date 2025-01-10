@@ -1,9 +1,6 @@
 ## Hello, I'm [Frish2021!](https://github.com/CoderFrish) 👋
 
 I'm student from Guangdong China.
-I love to play games is
- - Minecraft
- - Cities Skyline
 
 ### programming languages
 
