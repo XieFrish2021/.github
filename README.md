@@ -4,7 +4,7 @@
 主要写java和kotlin的一些小玩意，Java和Kotlin是跳着学的。
 
 ### Top languages
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderFrish&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderFrish&layout=compact&locale=cn)
 
 ### Programming Language
 
@@ -29,4 +29,4 @@
 ![vue](https://img.shields.io/badge/Netty-green?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderFrish&show_icons=true)](https://github.com/CoderFrish)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderFrish&show_icons=true&locale=cn)](https://github.com/CoderFrish)
