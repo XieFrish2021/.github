@@ -10,6 +10,7 @@
 
 ![java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![kotlin](https://img.shields.io/badge/-Kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=white)
+![groovy](https://img.shields.io/badge/-Groovy-blue?style=for-the-badge&logo=apachegroovy&logoColor=white)
 ![javascript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)
 ![typescript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
